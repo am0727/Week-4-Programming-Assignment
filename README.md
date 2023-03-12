@@ -1,2 +1,2 @@
-# Week-4-Programming-Assignment
-Coursera Basic Blockchain Week 4 Assignment
+# -Coursera-Blockchain-Basics-University-at-Buffalo
+Week 4 - Programming Assignment
